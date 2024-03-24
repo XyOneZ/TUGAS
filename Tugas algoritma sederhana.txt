@@ -1,0 +1,10 @@
+
+Algoritma Membuat Kopi
+
+•	Siapkan peralatan dan bahan yang dibutuhkan, seperti cangkir, sendok, kopi, gula, dan air panas.
+•	Buka kemasan kopi
+•	Masukkan kopi sebanyak 1 sendok makan dan gula sebanyak 1 sendok makan ke dalam cangkir.
+•	Masukkan 200 ml air panas ke dalam cangkir.
+•	Aduk campuran kopi dan gula menggunakan sendok.
+•	Kopi sekarang selesai dibuat dan siap disajikan.
+•	Selesai.
