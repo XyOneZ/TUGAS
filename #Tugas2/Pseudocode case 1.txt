@@ -1,0 +1,22 @@
+Algoritma menghitung rata-rata 
+
+mulai
+  deklarasi:
+    nim : int
+    nama : string
+    nilai tugas 1, nilai tugas 2, nilai tugas 3, nilai rata-rata : double
+
+  input:
+    NIM
+    Nama
+    nilai tugas1
+    nilai tugas2
+    nilai tugas3
+
+  proses:
+    nilai rata-rata = (nilai tugas1 + nilai tugas2 + nilai tugas3) / 3
+
+  tampilan output:
+    - "Nim " [Nim Siswa] " Siswa yang bernama " [Nama Siswa]
+    - "Memperoleh nilai rata-rata " [Nilai Rata-rata] " dari hasil tugas yang diikutinya."
+Selesai

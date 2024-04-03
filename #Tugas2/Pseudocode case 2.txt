@@ -1,0 +1,32 @@
+ALGORITMA PROGRAM HITUNG NILAI AKHIR
+
+Mulai
+
+deklarasi
+  NamaSiswa : STRING
+  NilaiKeaktifan, NilaiTugas, NilaiUjian : DOUBLE
+  NilaiMurniKeaktifan, NilaiMurniTugas, NilaiMurniUjian : DOUBLE
+  NilaiAkhir : DOUBLE
+
+Input:
+  Nama
+  Nilai Keaktifan
+  Nilai Tugas
+  Nilai Ujian
+
+proses
+  NilaiMurniKeaktifan = NilaiKeaktifan * 20%
+  NilaiMurniTugas = NilaiTugas * 50%
+  NilaiMurniUjian = NilaiUjian * 30%
+
+  NilaiAkhir = NilaiMurniKeaktifan + NilaiMurniTugas + NilaiMurniUjian
+
+Tampilan/output
+ -"Siswa yang bernama " [NamaSiswa]
+ -"Dengan Nilai Persentasi Yang dihasilkan."
+ -"Nilai Keaktifan * 20% : " [NilaiMurniKeaktifan]
+ -"Nilai Tugas * 50% : " [NilaiMurniTugas]
+ -"Nilai Ujian * 30% : " [NilaiMurniUjian]
+ -"Jadi Siswa yang bernama " [NamaSiswa] " memperoleh nilai akhir sebesar " [NilaiAkhir]
+
+Selesai

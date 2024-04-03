@@ -1,0 +1,38 @@
+#Algoritma Case 1 : Menghitung rata-rata nilai
+
+1. Mulai
+2. Tampilkan pesan "PROGRAM HITUNG NILAI RATA-RATA"
+3. Input dari pengguna :
+    a. NIM Siswa
+    b. Nama Siswa
+    c. Nilai Tugas 1
+    d. Nilai Tugas 2
+    e. Nilai Tugas 3
+4. Hitung Rata-Rata
+    nilai rata-rata = (nilai tugas 1 + nilai tugas 2 + nilai tugas 3) / 3
+5. Tampilkan Hasil
+    a. NIM diikuti "Siswa yang bernama" [Nama Siswa]
+    b. "Memperoleh nilai rata-rata [nilai rata-rata] dari hasil tugas yang diikutinya"
+6. Selesai
+
+#Algoritma Case 2 : Menghitung nilai akhir
+
+ALGORITMA HITUNG NILAI AKHIR SISWA
+1. Mulai program
+2. Tampilkan pesan "PROGRAM HITUNG NILAI AKHIR"
+3. Input dari pengguna:
+   a. Nama Siswa
+   b. Nilai Keaktifan
+   c. Nilai Tugas
+   d. Nilai Ujian
+4. Hitung nilai murni masing-masing:
+   a. Nilai Murni Keaktifan = Nilai Keaktifan * 20%
+   b. Nilai Murni Tugas = Nilai Tugas * 50%
+   c. Nilai Murni Ujian = Nilai Ujian * 30%
+5. Hitung nilai akhir:
+   a. Nilai Akhir = Nilai Murni Keaktifan + Nilai Murni Tugas + Nilai Murni Ujian
+6. Tampilkan hasil:
+   b. Tampilkan nama siswa
+   c. Tampilkan nilai murni keaktifan, tugas, dan ujian
+   d. Tampilkan nilai akhir siswa
+7. Selesai.
